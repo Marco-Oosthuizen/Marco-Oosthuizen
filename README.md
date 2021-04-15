@@ -2,6 +2,7 @@
 <h3>📖Currently Studying: BSc Computer Science</h3>
 <h3>🏫Institute: University of Pretoria</h3>
 <h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
+<h3>🖊️LinkedIn:️<a href="https://www.linkedin.com/in/marco-oosthuizen-369b9320b/"> Marco Oosthuizen</a></h3>
 <h3>💻Skills:</h3>
   <ul>
     <li>Fullstack web development</li>
