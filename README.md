@@ -4,9 +4,21 @@
 <h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
 <h3>💻Skills:</h3>
   <ul>
-    <li>LAMP Stack Development</li>
-    <li>Android Studio Development</li>
-    <li>Relational Database Management</li>
+    <li>Fullstack web development</li>
+    <li>Android application development</li>
+    <li>Relational database management</li>
+    <li>Concurrent programming</li>
+    <li>Data structure and algorithms</li>
+  </ul>
+<h3>⚙️Technologies:</h3>
+  <ul>
+    <li>C, C++, C#</li>
+    <li>Java and JDK</li>
+    <li>HTML5, CSS3, JavaScript, PHP</li>
+    <li>Android Studio</li>
+    <li>x64 Intel Assembly</li>
+    <li>Apache2, NodeJS</li>
+    </li>MySQL, Microsoft Access</li>
   </ul>
 
 <!--
