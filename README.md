@@ -1,6 +1,6 @@
 <h1 align="center"> Marco Oosthuizen </h1>
-<button> Testing html elements </button>
-Currently Studying: Bsc Computer Science at the University of Pretoria.
+<h3>📖<u>Currently Studying:</u> Bsc Computer Science</h3>
+<h3>🏫<u>Institute:</u> University of Pretoria</h3>
 
 <!--
 **Marco-Oosthuizen/Marco-Oosthuizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
