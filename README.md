@@ -1,6 +1,5 @@
-### Marco Oosthuizen
-<h1> Testing HTML </h1>
-<h3> Testing html elements </h3>
+<h1 align="center"> Marco Oosthuizen </h1>
+<button> Testing html elements </button>
 Currently Studying: Bsc Computer Science at the University of Pretoria.
 
 <!--
