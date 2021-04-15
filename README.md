@@ -1,5 +1,5 @@
 <h1 align="center"> Marco Oosthuizen </h1>
-<h3>📖Currently Studying: Bsc Computer Science</h3>
+<h3>📖Currently Studying: BSc Computer Science</h3>
 <h3>🏫Institute: University of Pretoria</h3>
 <h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
 <h3>💻Skills:</h3>
@@ -17,8 +17,15 @@
     <li>HTML5, CSS3, JavaScript, PHP</li>
     <li>Android Studio</li>
     <li>x64 Intel Assembly</li>
-    <li>Apache2, NodeJS</li>
-    </li>MySQL, Microsoft Access</li>
+    <li>Apache2.4, NodeJS</li>
+    <li>MySQL, Microsoft Access</li>
+  </ul>
+<h3>🤓Interests</h3>
+  <ul>
+    <li>Artificial Intelligence</li>
+    <li>Theoretical Computer Science</li>
+    <li>Complexity Theory</li>
+    <li>Cryptography</li>
   </ul>
 
 <!--
