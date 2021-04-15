@@ -1,4 +1,6 @@
-### Hi there 👋
+### Marco Oosthuizen
+
+Currently studying Bsc Computer Science at the University of Pretoria.
 
 <!--
 **Marco-Oosthuizen/Marco-Oosthuizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
