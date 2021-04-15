@@ -1,6 +1,13 @@
 <h1 align="center"> Marco Oosthuizen </h1>
-<h3>📖<u>Currently Studying:</u> Bsc Computer Science</h3>
-<h3>🏫<u>Institute:</u> University of Pretoria</h3>
+<h3>📖Currently Studying: Bsc Computer Science</h3>
+<h3>🏫Institute: University of Pretoria</h3>
+<h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
+<h3>💻Skills:</h3>
+  <ul>
+    <li>LAMP Stack Development</li>
+    <li>Android Studio Development</li>
+    <li>Relational Database Management</li>
+  </ul>
 
 <!--
 **Marco-Oosthuizen/Marco-Oosthuizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
