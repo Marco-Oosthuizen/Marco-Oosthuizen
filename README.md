@@ -1,9 +1,10 @@
 <h1 align="center"> Marco Oosthuizen </h1>
-<h3>📖Currently Studying: BSc Computer Science</h3>
+<h3>Career: Software Engineer at Entelect</h3>
+<h3>📖Currently Studying: BSc(Hons) Computer Science</h3>
 <h3>🏫Institute: University of Pretoria</h3>
 <h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
 <h3>🖊️LinkedIn:️<a href="https://www.linkedin.com/in/marco-oosthuizen-369b9320b/"> Marco Oosthuizen</a></h3>
-<h3>💻Skills:</h3>
+<!--<h3>💻Skills:</h3>
   <ul>
     <li>LAMP stack development</li>
     <li>Android application development</li>
@@ -29,4 +30,4 @@
     <li>Software Engineering</li>
     <li>Inferential Statistics</li>
     <li>Calculus and Discrete Mathematics</li>
-  </ul>
+  </ul>-->
