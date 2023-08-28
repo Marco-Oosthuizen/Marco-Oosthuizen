@@ -1,5 +1,5 @@
 <h1 align="center"> Marco Oosthuizen </h1>
-<h3>Career: Software Engineer at Entelect</h3>
+<h3>💻Career: Software Engineer at Entelect</h3>
 <h3>📖Currently Studying: BSc(Hons) Computer Science</h3>
 <h3>🏫Institute: University of Pretoria</h3>
 <h3>🗺️Current Residence: Pretoria, Brooklyn</h3>
